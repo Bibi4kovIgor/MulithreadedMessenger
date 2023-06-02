@@ -1,0 +1,74 @@
+05:21:09.801 [main] ERROR C.messanger.client.Client -- Error in reading message in client. Error message: Connection refused
+05:22:46.419 [main] ERROR C.messanger.client.Client -- Error in reading message in client. Error message: Connection refused
+05:37:22.104 [main] ERROR C.messanger.client.Client -- Error in reading message in client. Error message: Connection refused
+05:37:22.146 [main] ERROR C.messanger.client.Client -- Error in reading message in client. Error message: Connection refused
+05:37:22.147 [main] ERROR C.messanger.client.Client -- Error in reading message in client. Error message: Connection refused
+05:38:43.012 [main] ERROR C.messanger.client.Client -- Error in reading message in client. Error message: Connection refused
+05:38:43.016 [main] ERROR C.messanger.client.Client -- Error in reading message in client. Error message: Connection refused
+08:42:59.179 [main] ERROR C.messanger.client.Client -- Error in reading message in client. Error message: Connection refused
+08:42:59.222 [main] ERROR C.messanger.client.Client -- Error in reading message in client. Error message: Connection refused
+08:42:59.223 [main] ERROR C.messanger.client.Client -- Error in reading message in client. Error message: Connection refused
+08:43:17.742 [main] ERROR C.messanger.client.Client -- Error in reading message in client. Error message: Connection refused
+08:43:17.745 [main] ERROR C.messanger.client.Client -- Error in reading message in client. Error message: Connection refused
+08:43:55.761 [main] ERROR C.messanger.client.Client -- Error in reading message in client. Error message: Connection refused
+08:43:55.766 [main] ERROR C.messanger.client.Client -- Error in reading message in client. Error message: Connection refused
+08:54:58.124 [main] ERROR C.messanger.client.Client -- Error in reading message in client. Error message: Connection refused
+08:54:58.173 [main] ERROR C.messanger.client.Client -- Error in reading message in client. Error message: Connection refused
+08:54:58.173 [main] ERROR C.messanger.client.Client -- Error in reading message in client. Error message: Connection refused
+09:04:18.346 [main] ERROR C.messanger.client.Client -- Error in reading message in client. Error message: Connection refused
+09:04:18.394 [main] ERROR C.messanger.client.Client -- Error in reading message in client. Error message: Connection refused
+09:04:18.395 [main] ERROR C.messanger.client.Client -- Error in reading message in client. Error message: Connection refused
+01:20:52.257 [main] ERROR edu.messanger.tcp.client.Client -- Error in working with message processing Connection reset
+
+01:20:52.257 [main] ERROR edu.messanger.tcp.client.Client -- Error in working with message processing Connection reset
+
+16:48:11.176 [main] ERROR edu.messanger.tcp.client.Client -- Error in working with message processing Connection refused
+
+18:14:15.721 [main] ERROR edu.messanger.tcp.client.Client -- Error in working with message processing Connection refused
+
+18:14:23.474 [main] ERROR edu.messanger.tcp.client.Client -- Error in working with message processing Connection refused
+
+18:14:35.836 [main] ERROR edu.messanger.tcp.client.Client -- Error in working with message processing Connection refused
+
+18:15:06.668 [main] ERROR edu.messanger.tcp.client.Client -- Error in working with message processing Connection refused
+
+18:17:24.953 [main] ERROR edu.messanger.tcp.client.Client -- Error in working with message processing Connection refused
+
+18:17:52.335 [main] ERROR edu.messanger.tcp.client.Client -- Error in working with message processing Connection refused
+
+18:18:12.705 [main] ERROR edu.messanger.tcp.client.Client -- Error in working with message processing Connection refused
+
+18:18:29.397 [main] ERROR edu.messanger.tcp.client.Client -- Error in working with message processing Connection refused
+
+18:28:40.684 [main] ERROR edu.messanger.tcp.client.Client -- Error in working with message processing Connection refused
+
+18:28:49.122 [main] ERROR edu.messanger.tcp.client.Client -- Error in working with message processing Connection refused
+
+18:30:18.885 [main] ERROR edu.messanger.tcp.client.Client -- Error in working with message processing Connection refused
+
+18:31:00.377 [main] ERROR edu.messanger.tcp.client.Client -- Error in working with message processing Connection refused
+
+18:33:43.437 [main] ERROR edu.messanger.tcp.client.Client -- Error in working with message processing Connection refused
+
+18:35:39.632 [main] ERROR edu.messanger.tcp.client.Client -- Error in working with message processing Connection refused
+
+11:35:26.451 [main] ERROR edu.messanger.tcp.client.Client -- Error in working with message processing Connection refused
+
+11:35:55.266 [main] ERROR edu.messanger.tcp.client.Client -- Error in working with message processing Connection refused
+
+11:53:56.671 [main] ERROR edu.messanger.tcp.client.Client -- Error in working with message processing Connection refused
+
+11:56:04.304 [main] ERROR edu.messanger.tcp.client.Client -- Error in working with message processing Connection refused
+
+11:56:49.760 [main] ERROR edu.messanger.tcp.client.Client -- Error in working with message processing Connection refused
+
+11:56:50.943 [main] ERROR edu.messanger.tcp.client.Client -- Error in working with message processing Connection refused
+
+12:19:34.493 [main] ERROR edu.messanger.tcp.client.Client -- Error in working with message processing Connection refused
+
+12:19:57.380 [Thread-1] ERROR edu.messanger.tcp.server.Server -- Problem in client handler request processing: Connection reset
+02:51:44.967 [main] ERROR edu.messanger.udp.client.Client -- IO Error from the clients side
+02:51:55.546 [main] ERROR edu.messanger.udp.client.Client -- IO Error from the clients side
+02:52:29.933 [main] ERROR edu.messanger.udp.client.Client -- IO Error from the clients side
+02:53:55.243 [main] ERROR edu.messanger.udp.client.Client -- IO Error from the clients side
+02:57:19.651 [main] ERROR edu.messanger.udp.client.Client -- IO Error from the clients side
